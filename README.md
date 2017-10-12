@@ -29,15 +29,5 @@ Great! Your server is running in http://localhost:8080/
 
 You should see (The result of index.html):
 
-	2.718
-	0.75
-	4
-	2i
-	[[7, 0], [0, 7]]
-	2 * x + 1
-	4
-	5 inch
-	3 + 2i
-	-7
-	14
+![image](https://github.com/hcvazquez/ExperimentExample/blob/master/img/example.png)
 	
